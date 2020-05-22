@@ -1,0 +1,24 @@
+{
+  "name": "electronsetup",
+  "version": "1.0.0",
+  "description": "Electron Setup boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AldonIsenberg11/electronSetup.git"
+  },
+  "author": "Aldon Isenberg II",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AldonIsenberg11/electronSetup/issues"
+  },
+  "homepage": "https://github.com/AldonIsenberg11/electronSetup#readme",
+  "devDependencies": {
+    "coffeescript": "^2.5.1",
+    "electron": "^9.0.0"
+  }
+}
