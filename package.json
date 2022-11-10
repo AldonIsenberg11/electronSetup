@@ -19,6 +19,6 @@
   "homepage": "https://github.com/AldonIsenberg11/electronSetup#readme",
   "devDependencies": {
     "coffeescript": "^2.5.1",
-    "electron": "^9.0.0"
+    "electron": "^18.3.7"
   }
 }
